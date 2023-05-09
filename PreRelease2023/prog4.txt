@@ -1,0 +1,11 @@
+       LDA# 3
+       SUB  NUM1
+       ADD# 5
+       STA  FINAL
+       HLT
+
+
+
+
+ NUM1:      5
+FINAL:      0
